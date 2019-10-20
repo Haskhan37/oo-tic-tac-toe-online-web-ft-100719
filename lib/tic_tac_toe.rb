@@ -4,4 +4,4 @@ def initialize(board = nil)
   @board = board || Array.new(9,"")
 end
 
-Win_Combinations = []
+Win_Combinations = [
