@@ -116,8 +116,8 @@ end
     end
 
     if won? 
-      puts "Congrats #{winner}!"
+      puts "Congratulations #{winner}!"
     elsif draw?
-      puts "Draw game"
+      puts "Cats Game"
     end
   end
